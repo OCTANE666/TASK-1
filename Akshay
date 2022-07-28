@@ -1,0 +1,37 @@
+<html>
+    <head>
+    <title>
+        Akshay
+    </title>
+    </head>
+    <body>
+        <h1 >
+            <i><b>Register here</b></i>
+        </h1>
+        
+        <img src="https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=600"width="400"height="300" >
+  <form action="">
+    <br><br>
+    <label for>Name</label><br>
+    <input type="text"placeholder="Enter Name">
+    <br><br><br>
+    <label for=>email</label>
+    <br>
+    <input type="email"placeholder="Enter email">
+    <br><br><br>
+    <label for=>Gender</label>
+    <br>
+    <input type="radio"name="gender">
+    <label for=>Male</label>
+    <br><input type="radio"name="gender">
+    <label for=>Female</label>
+    <br><br>
+    <input type="tel" name="nmbrone" id="nmbrone" pattern="+91[7-9]{1}[0-9]{9}" value="+91" placeholder="Enter phone">
+    <br><br>
+</label>
+<button>Submit</button>
+</form>
+<a href="https://google.com"><br>
+   Already a user</a>
+</body>
+</html>
